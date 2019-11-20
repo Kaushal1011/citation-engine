@@ -23,3 +23,5 @@ Input:
 
 Output:
 ![Output](./out.png)
+
+> Now just copy the rendered HTML from browser and start using :)
