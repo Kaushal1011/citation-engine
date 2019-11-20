@@ -19,7 +19,7 @@ python3 main.py -i in.json -o out.html -f mla
 ```
 
 Input:
-![Input](in.png)
+![Input](./in.png)
 
 Output:
-![Output](out.png)
+![Output](./out.png)
